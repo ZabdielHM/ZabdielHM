@@ -31,19 +31,15 @@ Estudiante de Desarrollo de Software Multiplataforma en la Universidad Tecnológ
 
 #### 1. E-commerce de Juguetes Didácticos 🛍️
 * **Descripción:** Desarrollo de un sitio web de comercio electrónico con PHP, Laravel, HTML y JavaScript, junto con una aplicación móvil en Kotlin. Ambos proyectos están conectados a una API y usan MySQL.
-* **Link del Proyecto:** [enlace a tu repositorio del e-commerce]
 
 #### 2. Proyecto de IoT - Juguete Interactivo 🤖
 * **Descripción:** Creé un juguete interactivo controlado por un ESP32, programado con Arduino IDE. El proyecto incluye una página web en HTML para almacenar puntuaciones y una base de datos MySQL.
-* **Link del Proyecto:** [enlace a tu repositorio del proyecto de IoT]
 
 #### 3. Solución de Logística para Recolección de Composta ♻️
 * **Descripción:** Un sitio web en React/JavaScript y una app móvil en React Native para solucionar un problema de logística. La solución se comunica con un dispositivo IoT y utiliza bases de datos MySQL y Firebase.
-* **Link del Proyecto:** [enlace a tu repositorio del proyecto de logística]
 
 #### 4. Aplicación Web para Gestión Empresarial 📈
 * **Descripción:** Desarrollé una aplicación web con sistemas de CRUD, cotizaciones, gráficas y reportes para una empresa. La aplicación está lista para producción, montada en un servidor y con su base de datos correspondiente.
-* **Link del Proyecto:** [enlace a tu repositorio de la aplicación empresarial]
 
 ---
 
@@ -58,3 +54,4 @@ Estudiante de Desarrollo de Software Multiplataforma en la Universidad Tecnológ
 ### ✉️ Contáctame
 
 - **Correo electrónico:** jesuszabdielh7@gmail.com
+
